@@ -1,0 +1,5 @@
+﻿  function.cpp
+E:\VS_Project\Project1\Project1\function.cpp(281,30): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+  Project1.vcxproj -> E:\VS_Project\Project1\Debug\Project1.exe
